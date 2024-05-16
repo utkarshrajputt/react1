@@ -118,7 +118,7 @@ const Footer = () => {
           class="p-4 text-center"
           style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
           className="logo"
-          style={{display:'flex',justifyContent:'center'}}
+          // style={{display:'flex',justifyContent:'center'}}
         >
           © 2023 Copyright:&nbsp;&nbsp;&nbsp;
           <img src={logo} alt=" " />
