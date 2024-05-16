@@ -5,6 +5,10 @@ module.exports = {
     fontFamily: {
       primary: 'Rubik',
     },
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
     container: {
       padding: {
         DEFAULT: '1rem',
@@ -34,3 +38,4 @@ module.exports = {
   },
   plugins: [],
 };
+  
